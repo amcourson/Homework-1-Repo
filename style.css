@@ -18,11 +18,14 @@ body {
 .navigation{
     
     float:right;
-    list-style:none;
+    list-style-type:none;
     padding:0;
     margin:0;
     
-}
+              
+  }
+              
+
 
 
 
@@ -50,6 +53,8 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    float: right;
+    list-style-type:none;
    
 }
 
